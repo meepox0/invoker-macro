@@ -1,0 +1,8 @@
+pynput
+vdf
+requests
+mss
+numpy
+opencv-python
+pytesseract
+Pillow
